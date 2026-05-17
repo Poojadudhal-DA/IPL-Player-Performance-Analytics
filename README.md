@@ -161,9 +161,9 @@ CREATE DATABASE ipl_analytics;
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [Your GitHub URL]
+- 💼 LinkedIn: [https://www.linkedin.com/in/poojadudhal]
+- 📧 Email: [poojadudhal104@gmail.com]
+- 🐙 GitHub: [https://github.com/Poojadudhal-DA/IPL-Player-Performance-Analytics]
 
 ---
 
