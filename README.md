@@ -115,9 +115,7 @@ IPL_Analytics/
 
 ## 🖥️ Dashboard Preview
 
-![IPL Dashboard](python/<img width="854" height="701" alt="image" src="https://github.com/user-attachments/assets/e0fe8b7f-3ab7-482b-8f57-73b7dbfa1e1f" />
-)
-
+![IPL Dashboard](python/IPL_Dashboard_Preview.png)
 ---
 
 ## ⚙️ How to Run This Project
