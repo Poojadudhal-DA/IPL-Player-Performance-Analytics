@@ -115,7 +115,7 @@ IPL_Analytics/
 
 ## 🖥️ Dashboard Preview
 
-![IPL Dashboard](python/top_batsmen.png)
+![IPL Dashboard](python/ILP_Dashboard_Preview)
 
 ---
 
