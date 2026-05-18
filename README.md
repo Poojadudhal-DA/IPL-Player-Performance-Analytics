@@ -114,7 +114,6 @@ IPL_Analytics/
 ---
 
 ## 🖥️ Dashboard Preview
-
 ![IPL Dashboard](python/IPL_Dashboard_Preview.png)
 ---
 
